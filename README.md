@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mr. Nilesh Patil</h1>
-<h3 align="center">A passionate Electronics & Telecommunication Engineer developer from India</h3>
+<h3 align="center">A passionate Electronics & Telecommunication Engineer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
